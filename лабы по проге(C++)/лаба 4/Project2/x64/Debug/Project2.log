@@ -1,0 +1,10 @@
+﻿  Card.cpp
+  ClassFormator.cpp
+  Formator.cpp
+  Formator.h
+  main.cpp
+  Pack.cpp
+C:\Users\User\source\repos\2 курс\лабы по проге\лаба 4\Project2\Pack.cpp(21,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+x64\Debug\Formator.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  Project2.vcxproj -> C:\Users\User\source\repos\2 курс\лабы по проге\лаба 4\Project2\x64\Debug\Project2.exe

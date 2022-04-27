@@ -1,0 +1,10 @@
+﻿  Card.cpp
+  ConsoleApplication1.cpp
+  Dealer.cpp
+  Game.cpp
+C:\Users\User\source\repos\2 курс\лабы по проге\лаба 4\ConsoleApplication1\Game.cpp(39,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Pack.cpp
+C:\Users\User\source\repos\2 курс\лабы по проге\лаба 4\ConsoleApplication1\Pack.cpp(21,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Player.cpp
+  Создание кода...
+  ConsoleApplication1.vcxproj -> C:\Users\User\source\repos\2 курс\лабы по проге\лаба 4\ConsoleApplication1\Debug\ConsoleApplication1.exe

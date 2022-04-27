@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\User\source\repos\2 курс\лабы по проге\лаба 3\ConsoleApplication2\ConsoleApplication2.cpp(20,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\User\source\repos\2 курс\лабы по проге\лаба 3\ConsoleApplication2\ConsoleApplication2.cpp(21,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  ConsoleApplication2.vcxproj -> C:\Users\User\source\repos\2 курс\лабы по проге\лаба 3\ConsoleApplication2\Debug\ConsoleApplication2.exe

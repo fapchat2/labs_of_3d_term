@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\2 курс\лабы по проге\лаба 1\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\User\source\repos\2 курс\лабы по проге\лаба 1\ConsoleApplication1\Debug\ConsoleApplication1.pdb
